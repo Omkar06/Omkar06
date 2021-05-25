@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at aradhyashinde57@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at aradhyashinde57@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
